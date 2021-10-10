@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "onnxruntime-common": "file:../common",
-    "prebuild-install": "^6.1.2"
+    "prebuild-install": "^6.1.4"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.6",
