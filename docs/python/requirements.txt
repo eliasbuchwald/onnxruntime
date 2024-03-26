@@ -11,3 +11,4 @@ tensorflow==2.5.0
 tf2onnx
 pandas
 pydot
+onnx>=1.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
