@@ -32,3 +32,4 @@ pyparsing==2.4.7 \
 userpath==1.5.0 \
     --hash=sha256:61f84899b7280800a8b6cc1b959a0cf250f6757e6f6c7176d7455bb693a4423a \
     --hash=sha256:c6a5b42e454f5e88d54af035fe3756de33a5318ad65a4191bb64e6b7cac03bcc
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
