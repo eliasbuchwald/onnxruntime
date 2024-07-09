@@ -27,7 +27,7 @@ toml==0.10.2 \
 importlib-metadata==3.7.0 ; python_version<'3.8' \
     --hash=sha256:24499ffde1b80be08284100393955842be4a59c7c16bbf2738aad0e464a8e0aa \
     --hash=sha256:c6af5dbf1126cd959c4a8d8efd61d4d3c83bddb0459a17e554284a077574b614
-zipp==3.4.0 ; python_version<'3.8' \
+zipp==3.19.1 ; python_version<'3.8' \
     --hash=sha256:102c24ef8f171fd729d46599845e95c7ab894a4cf45f5de11a44cc7444fb1108 \
     --hash=sha256:ed5eee1974372595f9e416cc7bbeeb12335201d8081ca8a0743c954d4446e5cb
 typing-extensions==3.7.4.3 ; python_version<'3.8' \
