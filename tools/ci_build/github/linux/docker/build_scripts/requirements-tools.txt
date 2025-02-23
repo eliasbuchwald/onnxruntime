@@ -10,7 +10,7 @@ pipx==0.16.2.1 \
     --hash=sha256:0ac30d7c1bbcd565130caa8faa08a486aed292882b12b047b80cd8abacaaa843 \
     --hash=sha256:805319eab100c0c36e349b76103bbe903445229a60ebb0010d7cf7590ff5ba20
 # this package is required for auditwheel
-pyelftools==0.27 \
+pyelftools==0.31 \
     --hash=sha256:5609aa6da1123fccfae2e8431a67b4146aa7fad5b3889f808df12b110f230937 \
     --hash=sha256:cde854e662774c5457d688ca41615f6594187ba7067af101232df889a6b7a66b
 # those packages are required for pipx
